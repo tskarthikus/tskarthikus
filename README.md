@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthik
+- 👋 Hi, I’m @tskarthikus
 - 👀 I’m interested in metaverse, 3D CAD, game programming
 - 🌱 I’m currently learning unreal
 - 💞️ I’m looking to collaborate on computational geometry, C++, C#, Python, Javascript, React JS, Node JS
